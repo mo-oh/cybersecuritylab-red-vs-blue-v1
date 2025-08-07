@@ -48,7 +48,7 @@ This project provided a complete incident response lifecycle experience from ini
 4. Forensic Analysis – Kibana log analysis and Wireshark  
    ![Kibana Log](screenshots/blue_team/kibana_log.png)
    ![Wireshark PCAP](screenshots/wireshark/wireshark_pcap.png)
-5. Reporting – [Full Post-Mortem Report](docs/post_mortem.pdf)
+5. Reporting – [Full Post-Mortem Report](post_mortem.pdf)
 
 ---
 
@@ -66,7 +66,7 @@ This project provided a complete incident response lifecycle experience from ini
 - [Red Team Screenshots](screenshots/red_team/)
 - [Blue Team (Kibana/Suricata) Screenshots](screenshots/blue_team/)
 - [Wireshark PCAP Screenshots](screenshots/wireshark/wireshark_pcap.png)
-- [Full Post-Mortem Report (PDF)](docs/post_mortem.pdf)
+- [Full Post-Mortem Report (PDF)](post_mortem.pdf)
 
 ---
 
