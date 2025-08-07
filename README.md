@@ -65,7 +65,7 @@ This project provided a complete incident response lifecycle experience from ini
 
 - [Red Team Screenshots](screenshots/red_team/)
 - [Blue Team (Kibana/Suricata) Screenshots](screenshots/blue_team/)
-- [Wireshark PCAP Screenshots](screenshots/wireshark/)
+- [Wireshark PCAP Screenshots](screenshots/wireshark/wireshark_pcap.png)
 - [Full Post-Mortem Report (PDF)](docs/post_mortem.pdf)
 
 ---
