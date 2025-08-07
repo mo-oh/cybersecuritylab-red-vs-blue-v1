@@ -39,16 +39,16 @@ This project provided a complete incident response lifecycle experience from ini
 
 ## 🛠️ Methodology
 
-1. **Reconnaissance** – Port scan and enumeration with Nmap  
+1. Reconnaissance – Port scan and enumeration with Nmap  
    ![Nmap Scan](screenshots/red_team/nmap_scan.png)
-2. **Exploitation** – Samba RCE (CVE-2007-2447) using Metasploit  
+2. Exploitation – Samba RCE using Metasploit  
    ![Meterpreter Shell](screenshots/red_team/meterpreter_shell.png)
-3. **Detection** – Suricata alerts and Zeek logs monitored in Security Onion  
+3. Detection – Suricata alerts in Security Onion  
    ![Suricata Alerts](screenshots/blue_team/suricata_alert.png)
-4. **Forensic Analysis** – Kibana log analysis and Wireshark packet captures  
+4. Forensic Analysis – Kibana log analysis and Wireshark  
    ![Kibana Log](screenshots/blue_team/kibana_log.png)
    ![Wireshark PCAP](screenshots/wireshark/wireshark_pcap.png)
-5. **Reporting** – [Full Post-Mortem Report](docs/post_mortem.pdf) (link or embed if possible)
+5. Reporting – [Full Post-Mortem Report](docs/post_mortem.pdf)
 
 ---
 
